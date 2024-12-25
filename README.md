@@ -11,7 +11,7 @@
 </div>
 
 
-<p align="center">I’m a Backend Developer with a strong interest in OSINT, web development, and building reliable backend systems. I enjoy diving into data with OSINT tools, creating backend solutions, and occasionally working on web projects to tie everything together.<br><br>Programming small projects is a hobby of mine whether it’s automating tasks, writing scripts, or building tools to make life easier. My strengths definitely lie in backend development; while I can work on the frontend when needed, I feel most at home optimizing and building systems on the backend.</p>
+<p align="center">I’m a Backend Developer with a strong interest in OSINT, web development, and building reliable backend systems. I enjoy diving into data with OSINT tools, creating backend solutions, and occasionally working on web projects to tie everything together.<br><br>Programming small projects is a hobby of mine whether it’s automating tasks, writing scripts, or building tools to make life easier. My strengths definitely lie in backend development; while I can work on the frontend when needed, I feel most at home optimizing and building systems on the backend. once worked for Telekom</p>
 
 
 <div align="center">
